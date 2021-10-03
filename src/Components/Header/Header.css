@@ -1,0 +1,7 @@
+.nav-container{
+    background-color: rgb(127, 211, 211);
+    padding: 5px;
+}
+.nav-container link{
+    text-decoration: none;
+}

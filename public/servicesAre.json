@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Scholarship",
+        "result":4.00,
+        "description":"this is scholarship",
+        "totalCost": 50000,
+        "image":"https://www.jeduka.com/storage/newsletter/1610543516_Study%20in%20Abroad%20with%20Scholarship%202.jpg"
+      },
+    {
+        "id": 2,
+        "name": "Lerning Process",
+        "result":4.60,
+        "description":"this is Learning process",
+        "totalCost": 10000,
+        "image":"https://blog.coursify.me/wp-content/uploads/2017/12/blended-learning-coursifyme-1.jpg"
+      },
+    {
+        "id": 3,
+        "name": "Is Taught By Hand",
+        "result":4.00,
+        "description":"this is taugth by hand",
+        "totalCost": 5000,
+        "image":"https://i.ytimg.com/vi/jLj0h-EiOxc/maxresdefault.jpg"
+      },
+    {
+        "id": 4,
+        "name": "Free Addmission",
+        "result":4.00,
+        "description":"this is addmmission free depend on result",
+        "totalCost": 1000,
+        "image":"https://image.shutterstock.com/image-vector/free-entry-sign-on-white-260nw-1645217599.jpg"
+      },
+    {
+        "id": 5,
+        "name": "Exam In Every Week",
+        "result":4.00,
+        "description":"this is Exam",
+        "totalCost": 6000,
+        "image":"https://examstime.in/wp-content/uploads/2019/06/Exams-Time-sq-icon.png"
+      }
+]
