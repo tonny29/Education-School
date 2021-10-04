@@ -1,7 +1,20 @@
 .nav-container{
-    background-color: rgb(127, 211, 211);
-    padding: 5px;
+    background-color: rgb(83, 131, 175);
+    padding: 10px;
+    text-align: left;
+    
 }
-.nav-container link{
-    text-decoration: none;
+.nav-container button{
+    color: black;
+    
+    margin-left: 20px;
+    border: 1px solid rgb(127, 211, 211);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav-container button:hover{
+    background-color: darkgray;
+    
 }

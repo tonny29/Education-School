@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Free Addmission Depend On Result",
+        "result":4.00,
+        "description":"this is addmmission free depend on result",
+        "totalCost": 1000,
+        "image":"https://media.istockphoto.com/vectors/comic-book-explosion-with-text-free-admission-vector-id875576420?k=20&m=875576420&s=612x612&w=0&h=zs45GXy9DDwchOQWK1No3AVRCXc0QNbeJgtOUjih9gU="
+      },
+      
+      {
+          "id": 2,
+          "name": "Lerning Process",
+          "result":4.60,
+          "description":"this is Learning process",
+          "totalCost": 10000,
+          "image":"https://blog.coursify.me/wp-content/uploads/2017/12/blended-learning-coursifyme-1.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Is Taught By Hand",
+          "result":4.00,
+          "description":"this is taugth by hand",
+          "totalCost": 5000,
+          "image":"https://i.ytimg.com/vi/jLj0h-EiOxc/maxresdefault.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Scholarship",
+          "result":4.00,
+          "description":"this is scholarship",
+          "totalCost": 50000,
+          "image":"https://www.jeduka.com/storage/newsletter/1610543516_Study%20in%20Abroad%20with%20Scholarship%202.jpg"
+        }
+]

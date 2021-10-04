@@ -8,18 +8,25 @@ import  "./Services.css";
 const Services = () => {
 const [service,setService]=useState([]);
 useEffect(()=>{
-    fetch('./servicesAre.json')
+    fetch('./service.json')
     .then(res=>res.json())
     .then(data=>setService(data))
 },[])
-console.log(service);
+// console.log(service);
     return (
-        <div className="container">
-            <Row xs={1} md={2} className="g-4">
-                {
-                    service.map(serviceIs=><ServicesAre ser={serviceIs}></ServicesAre>)
-                }
-            </Row>
+        <div>
+               <div className="top-image">
+
+               <img src="https://www.dailypress.com/resizer/UgDGnhFhRvBpTB3hS_nnTUx0jZo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2K2GRXXQSNEYLNGQZGHQB6V2EM.jpg" alt="" />
+               <h1 className="position">this is schl</h1>
+               </div>
+            <div className="container">
+                <Row xs={1} md={2} className="g-4">
+                    {
+                        service.map(serviceIs=><ServicesAre servicesIs={serviceIs}></ServicesAre>)
+                    }
+                </Row>
+            </div>
         </div>
     );
 };
