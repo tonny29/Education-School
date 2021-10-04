@@ -9,7 +9,7 @@ import './ServiceDetail.css';
 const ServiceDetail = () => {
     const [servicedetailAre,setServicedetailAre]=useState([]);
     useEffect(()=>{
-        fetch('/servicesAre.JSON')
+        fetch('/servicesAre.json')
         .then(res=>res.json())
         .then(data=>setServicedetailAre(data))
     },[]);

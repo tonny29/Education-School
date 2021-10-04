@@ -1,0 +1,8 @@
+.serviceAre{
+    margin-bottom: 15px;
+    border-radius: 20px;
+}
+.serviceAre:hover{
+    background-color: gray;
+    color: white;
+}

@@ -1,84 +1,91 @@
 [
-    {
-      "id": 1,
-      "name": "Free Addmission Depend On Result",
-      "result":4.00,
-      "description":"this is addmmission free depend on result",
-      "totalCost": 1000,
-      "image":"https://media.istockphoto.com/vectors/comic-book-explosion-with-text-free-admission-vector-id875576420?k=20&m=875576420&s=612x612&w=0&h=zs45GXy9DDwchOQWK1No3AVRCXc0QNbeJgtOUjih9gU="
-    },
+  {
+    "id": 1,
+    "name": "EXAM IN EVERY WEEK & MONTH",
+    "description":"The weekly midterm exams were formative sessions with each test having 10 — 20 questions, followed by a short pep-talk, and a feedback session. The feedback session worked to immediately address misconceptions and doubts, while the pep-talk encouraged metacognition in students by urging them to use failure as stepping stones to correct misconceptions or study practices. Students were given the message that they should not pass early judgments on their abilities, but should continue to work hard to learn. Secondly, the weekly mid-terms were comprehensive exams that were closely aligned with the finals. At least 60% of the questions in these exams required higher level thinking skills based on Bloom’s taxonomy. Each formative exam tested material introduced during the week as well as previously covered concepts – although identical problems were never repeated; new questions were framed to give students practice on the same concepts and skills tested previously. And lastly, the creative grading system emphasised the importance of the weekly exams, while also allowing for success despite early failures. This system of weekly tests coupled with the novel grading scheme transforms mid-term exams into learning experiences..",
+    "year":"1999-2001",
+    "result":"4.80",
+    "image":"https://cache.careers360.mobi/media/presets/900X600/article_images/2021/8/26/exam001.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "TEACHERS ARE HIGHLY EDUCATED IN ABOARD",
+    "description":"Recent research suggests that the strongest influence on how well students perform is directly linked to how well-educated the teachers are of those students. American researcher Linda Darling-Hammond examined federal data bases of teachers' qualifications and student performances. The aim of the study was to discover which of several factors best predicted improvement in National Assessment of Educational Progress tests from 1992–96. Darling- Hammond said that the research shows that although poverty has an effect on a student's academic achievement, as does education spending and class size, the strongest influence on student test results is the general quality of teaching.",
+    "result":"4.00",
+    "year":"2002-2004",
+    "image":"https://www.wikihow.com/images/thumb/a/a2/Be-a-Good-Teacher-Step-17-Version-5.jpg/aid579823-v4-1200px-Be-a-Good-Teacher-Step-17-Version-5.jpg"
+  },
+  {
+    "id": 3,
+    "name": "HAVE CULTURAL EDUCATION",
+    "description":"The Cultural Studies major introduces you to critical approaches used in the study of a wide variety of cultural forms and practices. Cultural Studies is a field of study in which culture is understood not just as textual or artistic products like books, music or films, but in the broader sense of a dynamic and complexly patterned way of life.The Cultural Studies major helps you understand the complexity of everyday life and the way that habits, texts, objects and beliefs are socially patterned and laden with values and meaning. It will provide you with a range of tools to analyse how cultural practices and meanings are produced, circulated and exchanged. It complements all forms of study in the Humanities and Social Sciences, as well as Media and Communications, Education, and Law.",
+    "result":"4.90",
+    "year":"2005-2007",   
+    "image":"https://blog.royalinternationalschool.co.in/wp-content/uploads/2017/11/utsav2013dance002-678x381.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Free Addmission Depend On Result",
+      
+    "description":"Addmmission free depend on results.Also Testing your vehicle’s emissions is important for you, your vehicle, and the environment as well. When the emissions test is complete, you will know how much pollution your vehicle is producing. The pollutants produced are a concern because they can adversely affect your health and the air quality around you. By helping to control the pollutants produced from your vehicle, you can help to improve the air around overall, as well as buildings and other structures in the area. It is always important to do anything you can to have a safe and reliable vehicle.The emission test also focuses on improving the overall air quality. This is because a standard combustion engine can release numerous pollutants into the environment. Some of these are harmful to humans and animals. The particulates are soot by-products of fuel that can lead to respiratory issues. The carbon dioxide emitted is a greenhouse gas that can contribute to global warming.",
+    "totalCost": 1000,
+    "result":"4.00",
+    "year":"2008-2010" ,
+    "image":"https://media.istockphoto.com/vectors/comic-book-explosion-with-text-free-admission-vector-id875576420?k=20&m=875576420&s=612x612&w=0&h=zs45GXy9DDwchOQWK1No3AVRCXc0QNbeJgtOUjih9gU="
+  },
     
     {
-        "id": 2,
+        "id": 5,
         "name": "Lerning Process",
-        "result":4.60,
-        "description":"this is Learning process",
+        "result":"5.00",
+        "year":"2011-2013" ,
+        "description":"The “New Normal” has become the most bittersweet phrase since the beginning of the global pandemic Coronavirus (also known as Covid-19). Coronavirus is a deadly infection first discovered in China in December 2019. With time it spread globally and took a form of a global crisis. For the first time in many years, a disease had stopped the entire world from functioning normally. Every country imposed a nationwide lockdown to prevent the infection from spreading, as it is highly contagious. Since then, everything has become online, from classes to offices, grocery shopping everything. This form of life is called the “new normal”. Schools and universities are conducting classes, exams, presentations, viva, etc., all online.",
         "totalCost": 10000,
         "image":"https://blog.coursify.me/wp-content/uploads/2017/12/blended-learning-coursifyme-1.jpg"
       },
       {
-        "id": 3,
+        "id": 6,
         "name": "Is Taught By Hand",
-        "result":4.00,
-        "description":"this is taugth by hand",
+        "result":"4.50",
+        "year":"2014-1016" , 
+        "description":"The question whether art education is necessary for children at school has drawn much attention from the public. While some people argue that teaching art subjects is a waste of time, I believe that it is significant for children to learn art-related subjects.At the outset, it is thought by a handful of people that art education at school is a waste of time. There are more important subjects that would benefit children for their future life. Science, technology and mathematics, for example, are of great significant subjects which allows students to find a good job after graduation. On the other hand, studying arts does not lead to a successful career. It is easy to see that those days, most artists have been struggling to make a living from selling their work of art.Despite the above arguments, from my perspective, learning art is necessary for students at school because of some radical reasons. Firstly, art subjects including music, drawing, painting and sculpture allow children to enter a state of relaxation. After concentration on STEM subjects, what learners need is to unwind by usefully physical activities in order to make a balance. ",
         "totalCost": 5000,
         "image":"https://i.ytimg.com/vi/jLj0h-EiOxc/maxresdefault.jpg"
       },
       {
-        "id": 4,
+        "id": 7,
         "name": "Scholarship",
-        "result":4.00,
-        "description":"this is scholarship",
+        "result":"4.78",
+        "year":"2017-2018" ,
+        "description":"It’s never too early to begin the search for college scholarships. As soon as you begin applying for college, you should begin the search.Here’s why scholarships are important.Scholarships provide an opportunity for people to earn an education. Without assistance from an outside source, students may have trouble paying for the degree.Scholarships help students have more time to focus on their studies.  Research shows that work can take up more than 15 hours per week and becomes an obstacle to academic success. For many students, the stresses of working make it difficult for them to graduate on time, or graduate with the high grades they have the potential to achieve. For other students, the work/study life is unsustainable, and they discontinue their studies altogether.Scholarships can fill the gap.  Scholarship assistance can support students who fall in the gap between high and low-income levels — students who may not qualify for a need-based scholarship and who do not meet the criteria for a merit-based scholarship. Scholarships also decrease the number and amount of loans students need to take to complete college.  ",
         "totalCost": 50000,
         "image":"https://www.jeduka.com/storage/newsletter/1610543516_Study%20in%20Abroad%20with%20Scholarship%202.jpg"
       },
-    
      {
-        "id": 5,
-        "name": "Exam In Every Week",
-        "result":4.00,
-        "description":"this is Exam",
-        "totalCost": 6000,
-        "image":"https://cache.careers360.mobi/media/presets/900X600/article_images/2021/8/26/exam001.jpeg"
-      },
-    {
-        "id": 6,
-        "name": "Teachers Are Highly Educated In Aboard",
-        "result":4.00,
-        "description":"This is Good Teacher",
-        "totalCost": 6000,
-        "image":"https://www.wikihow.com/images/thumb/a/a2/Be-a-Good-Teacher-Step-17-Version-5.jpg/aid579823-v4-1200px-Be-a-Good-Teacher-Step-17-Version-5.jpg"
-      },
-    {
-        "id": 7,
-        "name": "Have Cultural Education",
-        "result":4.00,
-        "description":"This is cultural side",
-        "totalCost": 6000,
-        "image":"https://blog.royalinternationalschool.co.in/wp-content/uploads/2017/11/utsav2013dance002-678x381.jpg"
-      },
-    {
         "id": 8,
         "name": "Extra Classes",
-        "result":4.00,
-        "description":"This is extra class",
-        "totalCost": 6000,
+        "result":"5.00",
+        "year":"2018-2019" ,
+        "description":"Extra classes are helpful for students who can attend them. I don’t really know about other schools but in my school one can take extra classes for free. No need to pay any additional amount or fees for such classes. So it’s like an opportunity for students to learn more at school at no extra cost. It helps students increase their knowledge and that too for free. Usually there are more examples and problems solved in such classes as compared to the normal class hours at school.",
+           
         "image":"https://englishfortomorrow.com/wp-content/uploads/2018/09/Extra-classes-on-English-1.jpg"
       },
     {
         "id": 9,
         "name": "Celebrate Festivals",
-        "result":4.00,
-        "description":"This is festival functions ",
-        "totalCost": 6000,
+        "result":"4.00",
+        "year":"2019-2020" ,
+        "description":"Children will remember an important day only if they are told what the occasion signifies. So a celebration makes them aware of the world in a more fun way. Celebrating events and festivals in our school has become an integral part of learning and building a strong cultural belief. Such celebrations bring the students closer to each other’s traditions and cultural beliefs and develop respect and understanding for each other’s customs and traditions. Some of the days celebrated in our school are Independence Day, Janmashtami, Mother’s day, Grandparent’s day etc. Other famous festivals of India include Lohri, Raksha Bandhan, Holi, Diwali , etc. With so many festivals to celebrate, Indians surely have millions of reasons to rejoice!Furthermore, when students from different regions experience this joy of festivals, it truly enhances the Indian culture.",
+           
         "image":"http://www.theindependentbd.com/assets/archive/images/Pohela%20Boishakh%20.jpg"
       },
     {
         "id": 10,
         "name": "Sports Facilities",
-        "result":4.00,
-        "description":"This is Sports facilitys...most of scholl dont have a groud for students playin,but we have a big gorud for student they can play there...when thay play widely then they learn properly",
-        "totalCost": 6000,
+        "result":"Running",
+        "year":"2020-2021" ,
+        "description":"Involving in sports bring a feeling of togetherness and group efforts. It helps students to push their extreme and to coordinate with others. It let them develop all the possible emotions exist in the human body, which helps them to maintain all types of hormones. It teaches students to face failure moments as well as celebrating the winning moments in their life.Sports keep the brain active and sharp during all the problems in life. It welcomes a better sense of understanding things and concepts in academics. Sports teaches everyone to be in discipline and self-control. And discipline brings better management of time and other activities in our lives. Basically, sports lead to better mental growth.",
+           
         "image":"https://lh3.googleusercontent.com/proxy/kHjhwSgs4NQQSQTrT_lTR1zcRF99E0oCw8Bvy4mTT7SzqPHerkCVeVcd5x6OT1SZCycGA0MYstV1QEneLoh7gMZw0yocmKt0cA_BBzpHMl86LdJL0V1XPaegCIpA-sSvDdsS921RifxdmZyRd93GDpadK5s5M-5Y_2718m4ReDGX86CKug"
       }
 ]

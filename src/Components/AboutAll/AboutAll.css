@@ -1,0 +1,11 @@
+.result-text-color{
+    background-color: rgba(111, 158, 202, 0.37);
+    color: rgb(15, 97, 173);
+    padding: 10px;
+}
+.about-all{
+    background-color: rgba(245, 187, 187, 0.603);
+    border: 2px solid rgb(245, 207, 203);
+    border-radius: 20px;
+    margin: 5px 20px 40px 20px;
+}

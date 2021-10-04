@@ -1,0 +1,25 @@
+.speech-style{
+    border: 1px solid rgb(23, 168, 252);
+    border-radius: 20px;
+    height: 450px;
+    background-color: rgba(161, 225, 250, 0.267);
+}
+.speech-style h3{
+    background-color: rgba(17, 166, 224, 0.979);
+    padding: 7px;
+    
+}
+.speech-style img{
+    height: 130px;
+    width: 320px;
+}
+.contact-text{
+    background-color: rgba(61, 148, 248, 0.438);
+    padding: 10px;
+}
+.contact-area{
+    background-color: rgba(184, 205, 212, 0.726);
+    margin: 24px 20px 30px 20px;
+    border-radius: 20px;
+    
+}

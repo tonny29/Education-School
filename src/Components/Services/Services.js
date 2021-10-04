@@ -16,9 +16,12 @@ useEffect(()=>{
     return (
         <div>
                <div className="top-image">
-
-               <img src="https://www.dailypress.com/resizer/UgDGnhFhRvBpTB3hS_nnTUx0jZo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2K2GRXXQSNEYLNGQZGHQB6V2EM.jpg" alt="" />
-               <h1 className="position">this is schl</h1>
+                    <img src="https://www.dailypress.com/resizer/UgDGnhFhRvBpTB3hS_nnTUx0jZo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2K2GRXXQSNEYLNGQZGHQB6V2EM.jpg" alt="" />
+                  <div className="top-text">
+                  <h2>BRITANIA HIGH SCHOOL & COLLAGE</h2>
+                  <h4>SINCE : 1999</h4>
+                  <p>“Education can get you the only thing that really matters in today’s world—an assigned parking space.” — Gene Perret</p>
+                </div>
                </div>
             <div className="container">
                 <Row xs={1} md={2} className="g-4">

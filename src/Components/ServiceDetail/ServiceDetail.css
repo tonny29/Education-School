@@ -1,9 +1,8 @@
 .serviceAll{
-    background-color: rgb(236, 199, 199);
+    background-color: rgb(210, 231, 250);
 }
 .serviceAll-container{
-  
-    margin: 30px;
+    margin: 20px 30px 40px 30px;
 }
 @media screen and (min-width:768px){
     .serviceAll-container img{

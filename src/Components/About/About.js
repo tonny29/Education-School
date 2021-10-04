@@ -1,13 +1,20 @@
 import React from 'react';
-
-const About = () => {
+import { Card, Col } from 'react-bootstrap';
+import './About.css';
+const About = (props) => {
+    const {year,result}=props.aboutAll;
     return (
-        <div>
-            <div>
-                <h3>OUR RESULT LIST 1999 TO 2020</h3>
-                <h4>1999-2001: <p></p> </h4>
-            </div>
+        <div className="about">
+                <Col>
+                <Card className="card-style">
+                  <Card.Body>
+                    <Card.Title>Year : {year}</Card.Title>
+                    <Card.Text>Result : {result}</Card.Text>
+                    </Card.Body>
+                </Card>
+            </Col>
         </div>
+        
     );
 };
 

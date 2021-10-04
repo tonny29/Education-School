@@ -1,13 +1,13 @@
 import logo from './logo.jpg';
 import { BrowserRouter as Router,Switch,Route } from 'react-router-dom';
 import './App.css';
-import About from './Components/About/About';
 import Contact from './Components/Contact/Contact';
 import Header from './Components/Header/Header';
 import NotFound from './Components/NotFound/NotFound';
 import ServiceDetail from './Components/ServiceDetail/ServiceDetail';
 
 import Services from './Components/Services/Services';
+import AboutAll from './Components/AboutAll/AboutAll';
 
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
             <ServiceDetail></ServiceDetail>
           </Route>
           <Route path="/about">
-            <About></About>
+            <AboutAll></AboutAll>
           </Route>
           <Route path="/contact">
             <Contact></Contact>

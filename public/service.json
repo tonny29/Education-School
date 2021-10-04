@@ -1,35 +1,47 @@
 [
     {
         "id": 1,
-        "name": "Free Addmission Depend On Result",
-        "result":4.00,
-        "description":"this is addmmission free depend on result",
-        "totalCost": 1000,
+        "name": "FREE ADDMISSION",
+        "result":"4.00",
+        "description":"Addmmission are free based on student results",
+        "totalCost": "Depend on result",
+        "email":"jannatulnayemtonny@gmail.com",
+        "phone":"01817316799",
+        "address":"Dhaka-diabari,sector-11",
         "image":"https://media.istockphoto.com/vectors/comic-book-explosion-with-text-free-admission-vector-id875576420?k=20&m=875576420&s=612x612&w=0&h=zs45GXy9DDwchOQWK1No3AVRCXc0QNbeJgtOUjih9gU="
       },
       
       {
           "id": 2,
-          "name": "Lerning Process",
-          "result":4.60,
-          "description":"this is Learning process",
-          "totalCost": 10000,
+          "name": "LEARNING PROCESS",
+          "result":"4.60",
+          "description":"Our learning process in two system:Online & Offline",
+          "totalCost": 110,
+          "email":"tushar12@gmail.com",
+          "phone":"01817399799",
+          "address":"Dhanmondi,Cottor Area",
           "image":"https://blog.coursify.me/wp-content/uploads/2017/12/blended-learning-coursifyme-1.jpg"
         },
         {
           "id": 3,
-          "name": "Is Taught By Hand",
-          "result":4.00,
-          "description":"this is taugth by hand",
+          "name": "SPECIAL LEARNING",
+          "result":"2.00 to 4.00",
+          "description":"This special learning for weak students",
           "totalCost": 5000,
+          "email":"jamshed44@gmail.com",
+          "phone": "01888316799",
+          "address":"Dhanmondi,Leck-side area",
           "image":"https://i.ytimg.com/vi/jLj0h-EiOxc/maxresdefault.jpg"
         },
         {
           "id": 4,
-          "name": "Scholarship",
-          "result":4.00,
-          "description":"this is scholarship",
-          "totalCost": 50000,
+          "name": "SCHOLARSHIP",
+          "result":"5.00",
+          "description":"We have scholarship for top students",
+          "totalCost": 500,
+          "email":"mahimakhatun@gmail.com",
+          "phone":"01817116799",
+          "address":"Dhaka-diabari,sector-1",
           "image":"https://www.jeduka.com/storage/newsletter/1610543516_Study%20in%20Abroad%20with%20Scholarship%202.jpg"
         }
 ]
