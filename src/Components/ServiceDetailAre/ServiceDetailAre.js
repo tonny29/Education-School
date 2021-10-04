@@ -8,12 +8,12 @@ const ServiceDetailAre = (props) => {
     return (
         <div>
             <Col>
-                <Card>
+                <Card className="service-detail-are">
                     <div className="service-detail">
                         <div>
                             <Card.Img variant="top" src={image} />
                         </div>
-                        <div className="service-detail-are">
+                        <div>
                         <Card.Body>
                         <Card.Title>{name}</Card.Title>
                         <Card.Text>{description}</Card.Text>

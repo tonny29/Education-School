@@ -1,0 +1,9 @@
+.contact-card-style{
+    background-color: rgb(178, 228, 248);
+    margin:5px 20px 10px 20px;
+    border-radius: 20px;
+}
+.contact-card-style:hover{
+    background-color: skyblue;
+    color: white;
+}

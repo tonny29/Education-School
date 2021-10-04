@@ -3,4 +3,9 @@
 }
 .service-detail-are{
     margin-bottom: 20px;
+    border: 2px solid skyblue;
+    border-radius: 20px;
+}
+.service-detail-are img{
+    border-radius: 20px;
 }

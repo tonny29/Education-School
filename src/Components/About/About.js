@@ -6,7 +6,7 @@ const About = (props) => {
     return (
         <div className="about">
                 <Col>
-                <Card className="card-style">
+                <Card className="about-card-style">
                   <Card.Body>
                     <Card.Title>Year : {year}</Card.Title>
                     <Card.Text>Result : {result}</Card.Text>

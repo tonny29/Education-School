@@ -2,14 +2,14 @@
     text-align: center;
     
 }
-.card-style{
+.about-card-style{
     background-color: rgba(216, 209, 210, 0.568);
     border: 1px solid rgb(158, 18, 2);
     margin: 20px;
     color: black;
     border-radius: 20px;
 }
-.card:hover{
+.about-card-style:hover{
     background-color: rgba(77, 169, 245, 0.432);
     color: white;
 }
